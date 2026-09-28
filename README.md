@@ -13,6 +13,11 @@ An end-to-end data analysis and visualization project built in **Microsoft Excel
 * **Global Report Connections:** Integrated a customized date **Timeline** and multi-attribute **Slicers** (*Roast Type, Package Size, Loyalty Program Status*) connected across all visuals for real-time, dynamic data exploration.
 
 ---
+<img width="450" height="205" alt="Screenshot 2026-09-28 at 2 14 03 PM" src="https://github.com/user-attachments/assets/37891581-1038-4806-aea0-c77b550996c6" />
+<img width="1614" height="509" alt="Screenshot 2026-09-28 at 2 13 53 PM" src="https://github.com/user-attachments/assets/f0323093-b9b2-43e4-96a3-f79a5a71c790" />
+
+
+
 
 ## 🛠️ Tech Stack & Tools
 * **Data Processing & Modeling:** Microsoft Excel (`XLOOKUP`, `INDEX/MATCH`, Nested `IF` Functions, Excel Tables, Data Validation)
